@@ -102,26 +102,14 @@ Depth           : 1
 Total leaf nodes: 4
 ```
 
-## 10. Time Complexity
-
-| Operation | Complexity |
-|---|---|
-| Display Tree | O(N) |
-| Search Node | O(N) |
-| Calculate Height | O(N) |
-| Calculate Depth | O(N) |
-| Count Leaves | O(N) |
-
-Here, N represents the total number of nodes.
-
-## 11. Technologies Used
+## 10. Technologies Used
 
 - Programming Language: C++
 - Data Structure: General Tree
 - Concepts: Recursion, Pointers, Dynamic Memory Allocation
 - IDE: Dev-C++
 
-## 12. How to Run
+## 11. How to Run
 
 1. Open Dev-C++.
 2. Open `GeneralTree.cpp`.
@@ -130,7 +118,7 @@ Here, N represents the total number of nodes.
 5. Enter a node name.
 6. View the calculated results.
 
-## 13. Conclusion
+## 12. Conclusion
 
 This project demonstrates the application of a General Tree
 to represent a computer folder hierarchy.
@@ -142,6 +130,6 @@ The project improves understanding of tree data structures
 and their applications in C++.
 
 - Name: Bhagwat Sneha Shantaram
-- Class/Division: __________________
+- Class/Division: S.Y Btech (B)
 - Subject: Data Structures and Algorithms
-- Assessment: CCE-II, Unit III
+
